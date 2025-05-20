@@ -1,13 +1,42 @@
-Radcipher - Smart Contract Auditor & Web3 Researcher
-I specialize in smart contract auditing, Web3 security, and blockchain research, aiming to reach the top league and find clients in 2025. My work revolves around analyzing Solidity contracts, identifying vulnerabilities, and ensuring security in decentralized applications (dApps).
+🛡️ Radcipher — Web3 Security, Reimagined
+Welcome to Radcipher, a next-gen Web3 security firm focused on protecting decentralized ecosystems through deep auditing, real-world exploit case studies, and cutting-edge security tools.
 
-🚀 Current Focus:
+We combine top-tier smart contract auditing with educational products like Audit Vault — built for both developers and security researchers.
 
-Smart Contract Auditing – Security reviews & vulnerability assessments
-Web3 Research – Exploring blockchain security & emerging threats
-Building a Client Base – Preparing for professional audits in 2025
-📢 Always open to discussions and collaborations in Web3 security!
+🚀 What We're Building
+Audit Vault (Launching Soon)
+A private vault of exploit playbooks, bug case studies, audit tactics & pattern drills — learn how real exploits work and how to spot them before they hit mainnet.
 
-🔗 Find me on X (Twitter): @radcipher
+Security Audits
+Tailored smart contract audits for DeFi, NFT, and infrastructure protocols. Not just vulnerability reports — but actionable insight, strategic recommendations, and protocol hardening.
 
-This keeps it direct and to the point. Let me know if you want any tweaks! 🚀
+Tools for Auditors (Coming Soon)
+We're building internal tools that speed up auditing, surface hidden attack surfaces, and make detection smarter — eventually releasing versions for the community.
+
+🧠 Who It's For
+Web3 Projects
+Founders, devs & DAOs looking for premium smart contract audits and long-term security support.
+
+Smart Contract Auditors
+Individuals and small teams wanting to level up their audit game with real bug patterns, red-team methods, and deep technical training.
+
+Builders Who Care About Security
+If you want your project to launch and stay secure — we’re building for you.
+
+📬 Join the Vault Early
+We’re opening up early access to Audit Vault — launching in June 2025.
+
+👉 Sign up here
+Get on the waitlist and be the first to explore the vault.
+<https://radcipher.com/>
+
+🤝 Work With Us
+We’re now onboarding early clients for private audits. If you're launching a Web3 project and want security baked in from the start, let’s talk.
+
+📩 DMs open on X/Twitter : <https://x.com/radcipher> 
+📧 Or email: <radcipher@outlook.com>
+
+💬 Let’s Build Secure
+Follow our journey:
+🧵 @radcipher — Daily threads & security drops
+📚 Audit Vault Launch Updates
