@@ -1,4 +1,4 @@
-# 🛡️ Radcipher — Web3 Security, Reimagined
+![image](https://github.com/user-attachments/assets/0504e9ab-818f-4975-8625-74db08e92741)# 🛡️ Radcipher — Web3 Security, Reimagined
 
 Welcome to Radcipher, a next-gen Web3 security firm focused on protecting decentralized ecosystems through deep auditing, real-world exploit case studies, and cutting-edge security tools.
 
@@ -34,14 +34,20 @@ We’re opening up early access to **Audit Vault** — launching in June 2025.
 👉 Get on the waitlist and be the first to explore the vault:  
 [https://radcipher.com/](https://radcipher.com/)
 
----
+--- 
+## Our Work
+Public Competitions
+| Competition | Rank | Bugs Reported | Payout |
+Comming Soon
 
+---
 ## 🤝 Work With Us
 
 We’re now onboarding early clients for private audits. If you're launching a Web3 project and want security baked in from the start, let’s talk.
 
 - 📩 DMs open on X/Twitter: [https://x.com/radcipher](https://x.com/radcipher)  
 - 📧 Email: radcipher@outlook.com
+- 📨 Telegram : https://t.me/srr0111
 
 ---
 
