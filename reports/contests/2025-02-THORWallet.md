@@ -1,8 +1,8 @@
 ## Findings Summary
 
-| ID                                                                                                                    | Description | Severity |
-|-----------------------------------------------------------------------------------------------------------------------| - |----------|
-| [H-01](#[l-03-not-emitting-events-for-important-state-changes](https://codehawks.cyfrin.io/c/2024-09-stakelink/s/97)) | Potential Fund Locking and Integer Underflow in `MergeTgt::withdrawRemainingTitn` Due to Unrestricted Growth of `totalTitnClaimable` | High     |
+| ID                                                              | Description | Severity |
+|-----------------------------------------------------------------| - |----------|
+| [H-01](#[l-03-not-emitting-events-for-important-state-changes]) | Potential Fund Locking and Integer Underflow in `MergeTgt::withdrawRemainingTitn` Due to Unrestricted Growth of `totalTitnClaimable` | High     |
 
 # [H-01] Potential Fund Locking and Integer Underflow in `MergeTgt::withdrawRemainingTitn` Due to Unrestricted Growth of `totalTitnClaimable`
 

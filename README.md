@@ -37,10 +37,18 @@ We’re opening up early access to **Audit Vault** — launching in June 2025.
 ## Our Work
 ### Public Competitions
 
-|    | **Protocol**                                                                                                        | Type | Findings |                        Report                        |     Date      |
-|:--:|---------------------------------------------------------------------------------------------------------------------|:----------------:|:--------:|:----------------------------------------------------:|:-------------:|
-| 01 | [Liquid Staking](https://codehawks.cyfrin.io/contests/cm1el4vjp00019d2nzombxfzp) | DeFi composability for Chainlink Staking |   1 L    | [Report](reports/contests/2024-10-Liquid-Staking.md) | October 2024  |
-| 02 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)| Liquidity Solution for Token Launch | 1 H, 1 M | [Report](reports/contests/2024-12-Lambo-win.md) | December 2024 |
+|    | **Protocol**                                                                         |                                                  Type                                                   | Findings |                        Report                        |     Date      |
+|:--:|--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------:|:-------------:|
+| 01 | [Liquid Staking](https://codehawks.cyfrin.io/contests/cm1el4vjp00019d2nzombxfzp)     |                                DeFi composability for Chainlink Staking                                 |   1 L    | [Report](reports/contests/2024-10-Liquid-Staking.md) | October 2024  |
+| 02 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)                           |                                   Liquidity Solution for Token Launch                                   | 1 H, 1 M |   [Report](reports/contests/2024-12-Lambo-win.md)    | December 2024 |
+| 03 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)                        |                                      Liquidity for illiquid assets                                      |   1 H    |   [Report](reports/contests/2024-12-SecondSwap.md)   | December 2024 |
+| 04 | [ChainLink](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction)      |                                    System of onchain smart contracts      |   1 H    |                         Soon                         | December 2024 |
+| 05 | [Story-Protocol](https://cantina.xyz/competitions/0561defa-eeb2-4a74-8884-5d7a873afa58) |                                    IP blockchain      |   1 H    |                         Soon                         | December 2024 |
+| 06 | [THORWallet](https://code4rena.com/audits/2025-02-thorwallet)                        | DeFi solutions combinin cross-chain trading, fiat accessibility, and multichain multisignature solution |   1 H    |   [Report](reports/contests/2025-02-THORWallet.md)   | February 2025 |
+| 07 | [CrestalNetwork](https://audits.sherlock.xyz/contests/755)                           |                                      Web3-native AI agent platform                                      |   1 H    | [Report](reports/contests/2025-03-CrestalNetwork.md) |  March 2025   |
+
+
+
 
 
 
