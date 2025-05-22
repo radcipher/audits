@@ -4,7 +4,7 @@
     </a>
 </p>
 
-Visit our website to explore detailed information about our services, success stories, team expertise, and much more.- [**radcipher.com**](https://radcipher.com/)
+Visit our website to explore detailed information about our services, success stories, team expertise, and much more - [**radcipher.com**](https://radcipher.com/)
 
 
 # Radcipher — Web3 Security, Reimagined
@@ -38,7 +38,7 @@ We’re opening up early access to **Audit Vault** — launching in June 2025.
 
 --- 
 ## Our Work
-### Public Competitions 
+### Private Audits 
 Upcoming in June 2025
 ### Public Competitions
 
