@@ -1,13 +1,8 @@
-<p style="text-align: center;">
-    <a href="https://radcipher.com" target="_blank" rel="noopener noreferrer">
-        <img src="img/image.jpg" alt="Radcipher" style="max-width: 100%; height: auto;">
-    </a>
-</p>
 
-Visit our website to explore detailed information about our services, success stories, team expertise, and much more.- [**radcpher.com**](https://radcipher.com/)
+Visit our website to exlore detailed information about our services, success stories, team expertise, and much more.- [**radcpher.com**](https://radcipher.com/)
 
 
-# 🛡️ Radcipher — Web3 Security, Reimagined
+# Radcipher — Web3 Security, Reimagined
 
 Welcome to Radcipher, a next-gen Web3 security firm focused on protecting decentralized ecosystems through deep auditing, real-world exploit case studies, and cutting-edge security tools.
 
@@ -15,28 +10,23 @@ We combine top-tier smart contract auditing with educational products like **Aud
 
 ---
 
-## 🚀 What We're Building
-
-### Audit Vault (Launching Soon)  
-A private vault of exploit playbooks, bug case studies, audit tactics & pattern drills — learn how real exploits work and how to spot them before they hit mainnet.
-
-### Security Audits  
-Tailored smart contract audits for DeFi, NFT, and infrastructure protocols. Not just vulnerability reports — but actionable insight, strategic recommendations, and protocol hardening.
-
-### Tools for Auditors (Coming Soon)  
-We're building internal tools that speed up auditing, surface hidden attack surfaces, and make detection smarter — eventually releasing versions for the community.
+## About us
+We’re a team of seasoned smart contract researchers committed to setting the standard in blockchain security. With multiple top-tier finishes on Code4rena, CodeHawks, Cantina, Sherlock and a proven track record of identifying high, medium and low -severity vulnerabilities across 20+ audits, we aim to lead the space through precision, expertise, and impact.
 
 ---
 
-## 🧠 Who It's For
+## Work With Us
 
-- **Web3 Projects:** Founders, devs & DAOs looking for premium smart contract audits and long-term security support.  
-- **Smart Contract Auditors:** Individuals and small teams wanting to level up their audit game with real bug patterns, red-team methods, and deep technical training.  
-- **Builders Who Care About Security:** If you want your project to launch and stay secure — we’re building for you.
+We’re now onboarding early clients for private audits. If you're launching a Web3 project and want security baked in from the start, let’s talk.
+
+- 📩 DMs open on X/Twitter: [https://x.com/radcipher](https://x.com/radcipher)
+- 📧 Email: radcipher@outlook.com
+- 📨 Telegram : https://t.me/srr0111
+
 
 ---
 
-## 📬 Join the Vault Early
+## Join the Vault Early
 
 We’re opening up early access to **Audit Vault** — launching in June 2025.
 
@@ -45,26 +35,14 @@ We’re opening up early access to **Audit Vault** — launching in June 2025.
 
 --- 
 ## Our Work
-Public Competitions
-| Competition | Rank | Bugs Reported | Payout |
-Comming Soon
+### Public Competitions
 
----
-## 🤝 Work With Us
+|    | **Protocol**                                                                                                        | Type | Findings |                        Report                        |     Date      |
+|:--:|---------------------------------------------------------------------------------------------------------------------|:----------------:|:--------:|:----------------------------------------------------:|:-------------:|
+| 01 | [Liquid Staking](https://codehawks.cyfrin.io/contests/cm1el4vjp00019d2nzombxfzp) | DeFi composability for Chainlink Staking |   1 L    | [Report](reports/contests/2024-10-Liquid-Staking.md) | October 2024  |
+| 02 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)| Liquidity Solution for Token Launch | 1 H, 1 M | [Report](reports/contests/2024-12-Lambo-win.md) | December 2024 |
 
-We’re now onboarding early clients for private audits. If you're launching a Web3 project and want security baked in from the start, let’s talk.
 
-- 📩 DMs open on X/Twitter: [https://x.com/radcipher](https://x.com/radcipher)  
-- 📧 Email: radcipher@outlook.com
-- 📨 Telegram : https://t.me/srr0111
-
----
-
-## 💬 Let’s Build Secure
-
-Follow our journey:  
-🧵 [@radcipher](https://x.com/radcipher) — Daily threads & security drops  
-📚 Audit Vault Launch Updates
 
 ---
 
