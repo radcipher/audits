@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0504e9ab-818f-4975-8625-74db08e92741)# 🛡️ Radcipher — Web3 Security, Reimagined
+# 🛡️ Radcipher — Web3 Security, Reimagined
 
 Welcome to Radcipher, a next-gen Web3 security firm focused on protecting decentralized ecosystems through deep auditing, real-world exploit case studies, and cutting-edge security tools.
 
