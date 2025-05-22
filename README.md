@@ -38,10 +38,12 @@ We’re opening up early access to **Audit Vault** — launching in June 2025.
 
 --- 
 ## Our Work
+### Public Competitions 
+Upcoming in June 2025
 ### Public Competitions
 
 |    | **Protocol**                                                                         |                                                  Type                                                   | Findings |                        Report                        |     Date      |
-|:--:|--------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------:|:-------------:|
+|:--:|:-------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------:|:-------------:|
 | 01 | [Liquid Staking](https://codehawks.cyfrin.io/contests/cm1el4vjp00019d2nzombxfzp)     |                                DeFi composability for Chainlink Staking                                 |   1 L    | [Report](reports/contests/2024-10-Liquid-Staking.md) | October 2024  |
 | 02 | [Lambo.win](https://code4rena.com/audits/2024-12-lambowin)                           |                                   Liquidity Solution for Token Launch                                   | 1 H, 1 M |   [Report](reports/contests/2024-12-Lambo-win.md)    | December 2024 |
 | 03 | [SecondSwap](https://code4rena.com/audits/2024-12-secondswap)                        |                                      Liquidity for illiquid assets                                      |   1 H    |   [Report](reports/contests/2024-12-SecondSwap.md)   | December 2024 |
