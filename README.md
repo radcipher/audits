@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://radcipher" target="_blank">
+    <a href="https://radcipher.com" target="_blank">
         <img src="img/radcipher_logo.jpg" alt="Radcipher">
     </a>
 </p>
