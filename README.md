@@ -1,5 +1,5 @@
 
-Visit our website to exlore detailed information about our services, success stories, team expertise, and much more.- [**radcipher.com**](https://radcipher.com/)
+Visit our website to explore detailed information about our services, success stories, team expertise, and much more.- [**radcipher.com**](https://radcipher.com/)
 
 
 # Radcipher — Web3 Security, Reimagined
@@ -22,8 +22,6 @@ We’re now onboarding early clients for private audits. If you're launching a W
 - 📩 DMs open on X/Twitter: [https://x.com/radcipher](https://x.com/radcipher)
 - 📧 Email: radcipher@outlook.com
 - 📨 Telegram : https://t.me/srr0111
-
-
 ---
 
 ## Join the Vault Early
