@@ -125,7 +125,6 @@ Manual
 ## Recommendations
 Instead of emiiting the event in `PriorityPool::_withdraw` do it in `PriorityPool::withdraw` as shown.
 ```solidity
-
                function withdraw(
         uint256 _amountToWithdraw,
         uint256 _amount,
