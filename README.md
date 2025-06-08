@@ -26,7 +26,7 @@ We’re now onboarding early clients for private audits. If you're launching a W
 
 - 📩 DMs open on X/Twitter: [https://x.com/radcipher](https://x.com/radcipher)
 - 📧 Email: radcipher@outlook.com
-- 📨 Telegram : https://t.me/srr0111
+- 📨 Telegram : https://t.me/tony_radcipher
 ---
 
 ## Join the Vault Early
